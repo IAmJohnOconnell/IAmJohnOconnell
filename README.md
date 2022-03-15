@@ -18,6 +18,8 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wrap Your Head Around: Meta Tags.](https://blog.jtocodes.com/wrap-your-head-around-meta-tags)
+- [Wrap Your Head Around: CSS Animations](https://blog.jtocodes.com/wrap-your-head-around-css-animations)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
