@@ -18,6 +18,7 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Get a Better Understanding of Accessibility &amp; Semantic HTML](https://blog.jtocodes.com/get-a-better-understanding-of-accessibility-and-semantic-html)
 - [Wrap Your Head Around: Meta Tags.](https://blog.jtocodes.com/wrap-your-head-around-meta-tags)
 - [Wrap Your Head Around: CSS Animations](https://blog.jtocodes.com/wrap-your-head-around-css-animations)
 <!-- BLOG-POST-LIST:END -->
