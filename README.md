@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamjohnoconnell" target="blank"><img src="https://img.shields.io/twitter/follow/iamjohnoconnell?logo=twitter&style=for-the-badge" alt="iamjohnoconnell" /></a> </p>
 
-- 🔭 I’m currently working on **A React Chat Application**
+- 🔭 I’m currently working on **Meow F1. An app for keeping up with the Formula 1 season.**
 
 - 🌱 I’m currently focused on learning **React, ThreeJS, and everything I can about writing good articles.**
 
