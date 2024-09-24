@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm John O'Connell</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamjohnoconnell&label=Profile%20views&color=0e75b6&style=flat" alt="avatar of iamjohnoconnell" /> </p>
-
 - 🔭 I’m currently working on ***My seemingly endless backlog of projects.***
   - Primarily focused on InspectorGadget and a home task manager I can't think of a snappy name for.
 
